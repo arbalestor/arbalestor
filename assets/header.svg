@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
-  <title id="title">Arbalestor — Games. Tools. Useful software.</title>
+  <title id="title">arbalestor — Games. Tools. Useful software.</title>
   <desc id="desc">A dark developer portfolio banner with cream typography, mint accents, and connected geometric modules.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263239" stroke-width="0.7"/></pattern>
@@ -10,7 +10,7 @@
   <path d="M64 54H1216" stroke="#344346"/>
   <circle cx="70" cy="54" r="5" fill="#a9dfc5"/>
   <text x="64" y="100" fill="#a9dfc5" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">DEVELOPER / BUILDER</text>
-  <text x="58" y="197" fill="#f1efdf" font-family="Segoe UI,Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-4">ARBALESTOR</text>
+  <text x="58" y="197" fill="#f1efdf" font-family="Segoe UI,Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-4">arbalestor</text>
   <text x="64" y="248" fill="#c4cdcc" font-family="Segoe UI,Arial,sans-serif" font-size="28">Games. Tools. Useful software.</text>
   <path d="M64 294H666" stroke="#344346"/>
   <text x="64" y="332" fill="#91a8a7" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">GAMEPLAY</text>
