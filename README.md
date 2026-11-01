@@ -20,6 +20,10 @@ I'm developing a **fantasy arena-survivor in Godot**, working on gameplay system
 
 *An independent project in development, with gameplay and presentation still evolving.*
 
+### Earlier work · Guachafita Games
+
+Through **Guachafita Games**, I worked on game prototypes in Godot and JavaScript, including a tower defense / RTS hybrid and a browser arcade game. That work covered configurable gameplay, combat and economy systems, touch interaction, telemetry, and playtest tooling.
+
 ### Selected work
 
 Most of my work lives in private repositories. Here is an overview by project type and technology.
@@ -31,7 +35,7 @@ Most of my work lives in private repositories. Here is an overview by project ty
 | **Browser arcade game** | Canvas gameplay, touch interaction, and release packaging. | JavaScript · HTML Canvas · CSS · esbuild |
 | **Inventory & billing application** | Stock, sales, purchasing, customer records, analytics, and a REST API with a companion PWA. | C# · .NET · WinForms · SQLite · REST |
 | **Android widget prototype** | Compose interfaces, local persistence, widget rendering, and scheduled background work. | Kotlin · Jetpack Compose · WorkManager |
-| **[Fantasy MVP](https://github.com/arbalestor/fantasy-mvp-tool)** · public | Baseball projection tables with computed metrics, configurable filters, saved views, and CSV export. | JavaScript · DataTables · HTML/CSS |
+| **Fantasy MVP** | Baseball projection tables with computed metrics, configurable filters, saved views, and CSV export. | JavaScript · DataTables · HTML/CSS |
 | **Development tooling & workflows** | Build scripts, playtest captures, QA automation, and repeatable project handoffs. | Python · PowerShell · Git · GitHub |
 
 ### My development toolkit
@@ -52,5 +56,5 @@ Most of my work lives in private repositories. Here is an overview by project ty
 ---
 
 <p align="center">
-  <a href="https://github.com/arbalestor?tab=repositories">Public repositories</a> · <a href="https://github.com/arbalestor/fantasy-mvp-tool">Explore Fantasy MVP</a> · <a href="README.es.md">Leer en español</a>
+  <a href="README.es.md">Leer en español</a>
 </p>

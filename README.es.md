@@ -20,6 +20,10 @@ Estoy desarrollando un **arena-survivor de fantasía en Godot**, trabajando en s
 
 *Un proyecto independiente en desarrollo, cuyo gameplay y presentación siguen evolucionando.*
 
+### Trabajo anterior · Guachafita Games
+
+Bajo **Guachafita Games** trabajé en prototipos de videojuegos con Godot y JavaScript, entre ellos un híbrido de tower defense / RTS y un arcade de navegador. El desarrollo abarcó gameplay configurable, sistemas de combate y economía, interacción táctil, telemetría y herramientas para pruebas de juego.
+
 ### Selección de proyectos
 
 Gran parte de mi trabajo está en repositorios privados. Esta selección lo presenta por tipo de proyecto y tecnologías.
@@ -31,7 +35,7 @@ Gran parte de mi trabajo está en repositorios privados. Esta selección lo pres
 | **Juego arcade de navegador** | Gameplay en Canvas, interacción táctil y empaquetado de versiones. | JavaScript · HTML Canvas · CSS · esbuild |
 | **Aplicación de inventario y facturación** | Stock, ventas, compras, clientes, análisis y una API REST con una PWA complementaria. | C# · .NET · WinForms · SQLite · REST |
 | **Prototipo de widgets para Android** | Interfaces con Compose, persistencia local, renderizado de widgets y tareas periódicas en segundo plano. | Kotlin · Jetpack Compose · WorkManager |
-| **[Fantasy MVP](https://github.com/arbalestor/fantasy-mvp-tool)** · público | Tablas de proyecciones de béisbol con métricas calculadas, filtros configurables, vistas guardadas y exportación CSV. | JavaScript · DataTables · HTML/CSS |
+| **Fantasy MVP** | Tablas de proyecciones de béisbol con métricas calculadas, filtros configurables, vistas guardadas y exportación CSV. | JavaScript · DataTables · HTML/CSS |
 | **Herramientas y flujos de desarrollo** | Scripts de compilación, capturas de pruebas, automatización de QA y traspasos de proyecto reproducibles. | Python · PowerShell · Git · GitHub |
 
 ### Mis herramientas de desarrollo
@@ -52,5 +56,5 @@ Gran parte de mi trabajo está en repositorios privados. Esta selección lo pres
 ---
 
 <p align="center">
-  <a href="https://github.com/arbalestor?tab=repositories">Repositorios públicos</a> · <a href="https://github.com/arbalestor/fantasy-mvp-tool">Explorar Fantasy MVP</a> · <a href="README.md">Read in English</a>
+  <a href="README.md">Read in English</a>
 </p>
