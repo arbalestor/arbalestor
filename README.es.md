@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="arbalestor — Desarrollo de juegos, herramientas y software útil." width="100%" />
+  <img src="assets/arbalestor-header.svg" alt="arbalestor — Desarrollo de juegos, herramientas y software útil." width="100%" />
 </p>
 
 <p align="center">
