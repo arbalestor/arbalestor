@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Arbalestor — Games. Tools. Useful software.</title>
+  <desc id="desc">A dark developer portfolio banner with cream typography, mint accents, and connected geometric modules.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263239" stroke-width="0.7"/></pattern>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10191d"/><stop offset="1" stop-color="#101519"/></linearGradient>
+  </defs>
+  <rect width="1280" height="380" rx="20" fill="url(#wash)"/>
+  <rect x="800" width="480" height="380" rx="20" fill="url(#grid)" opacity="0.6"/>
+  <path d="M64 54H1216" stroke="#344346"/>
+  <circle cx="70" cy="54" r="5" fill="#a9dfc5"/>
+  <text x="64" y="100" fill="#a9dfc5" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">DEVELOPER / BUILDER</text>
+  <text x="58" y="197" fill="#f1efdf" font-family="Segoe UI,Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-4">ARBALESTOR</text>
+  <text x="64" y="248" fill="#c4cdcc" font-family="Segoe UI,Arial,sans-serif" font-size="28">Games. Tools. Useful software.</text>
+  <path d="M64 294H666" stroke="#344346"/>
+  <text x="64" y="332" fill="#91a8a7" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">GAMEPLAY</text>
+  <circle cx="191" cy="327" r="2" fill="#a9dfc5"/>
+  <text x="211" y="332" fill="#91a8a7" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">DATA</text>
+  <circle cx="275" cy="327" r="2" fill="#a9dfc5"/>
+  <text x="295" y="332" fill="#91a8a7" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">AUTOMATION</text>
+  <g fill="none" stroke="#506e69" stroke-width="2">
+    <path d="M897 134H977V244H1101"/>
+    <path d="M977 134H1101V244"/>
+    <path d="M897 134V244H977"/>
+  </g>
+  <g stroke-width="1.5">
+    <rect x="847" y="84" width="100" height="100" rx="18" fill="#152a26" stroke="#668d7f"/>
+    <rect x="1051" y="84" width="100" height="100" rx="18" fill="#1c252b" stroke="#49626c"/>
+    <rect x="847" y="194" width="100" height="100" rx="18" fill="#242720" stroke="#7c7a57"/>
+    <rect x="1051" y="194" width="100" height="100" rx="18" fill="#182c27" stroke="#668d7f"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="M883 120L869 134L883 148M911 120L925 134L911 148M903 115L891 153" stroke="#b2e2c9"/>
+    <path d="M1081 148V129M1101 148V118M1121 148V136" stroke="#adc5d2"/>
+    <path d="M880 236L897 226L914 236V254L897 264L880 254ZM880 236L897 246L914 236M897 246V264" stroke="#d5cc98"/>
+    <path d="M1081 244L1095 258L1122 231" stroke="#b2e2c9"/>
+  </g>
+  <circle cx="977" cy="134" r="5" fill="#a9dfc5"/>
+  <circle cx="977" cy="244" r="5" fill="#a9dfc5"/>
+  <path d="M1216 318V332H1202" fill="none" stroke="#a9dfc5" stroke-width="2"/>
+</svg>
